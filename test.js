@@ -47,4 +47,4 @@ function csv_array(data) {
 //}
 
 
-csv_data('https://IchiNo0205.github.io/blob/parts01.csv'); // csvのパス
+csv_data('https://IchiNo0205.github.io/parts01.csv'); // csvのパス
